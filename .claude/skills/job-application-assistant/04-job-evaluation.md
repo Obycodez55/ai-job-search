@@ -16,9 +16,9 @@ How well do the required/preferred skills align with the candidate's capabilitie
 | 40-59 | Partial match, significant upskilling needed |
 | 0-39 | Fundamental mismatch |
 
-**Strong match areas:** [YOUR_PRIMARY_SKILLS]
-**Moderate match areas:** [YOUR_SECONDARY_SKILLS]
-**Weak match areas:** [SKILLS_YOU_LACK]
+**Strong match areas:** TypeScript, JavaScript, Node.js, NestJS, REST API design, PostgreSQL, system architecture, backend scalability, multi-tenant SaaS, payment systems
+**Moderate match areas:** Python, MySQL, Redis, Docker, GitHub Actions, WebSockets, IoT systems
+**Weak match areas:** Frontend frameworks (React/Vue beyond basics), mobile development, ML/data science, DevOps/Kubernetes
 
 ### 2. Experience Match (0-100)
 Does work history align with what they're looking for?
@@ -30,9 +30,9 @@ Does work history align with what they're looking for?
 | 40-59 | Adjacent experience, would need to make the case |
 | 0-39 | Unrelated experience |
 
-**Strong:** [YOUR_DIRECT_EXPERIENCE_DOMAINS]
-**Moderate:** [YOUR_ADJACENT_EXPERIENCE]
-**Entry-level:** [ROLES_WITH_LIMITED_EXPERIENCE]
+**Strong:** Backend API development, payment systems, multi-tenant SaaS, IoT backend, developer tooling, team technical leadership
+**Moderate:** Full-stack (has done some NextJS frontend), cloud deployment (AWS/GCP mentioned in LinkedIn), CI/CD pipelines
+**Entry-level:** Pure data engineering, ML engineering, DevOps/SRE, product management
 
 ### 3. Behavioral/Culture Fit (0-100)
 Does the role and company culture match the behavioral profile?
@@ -63,19 +63,19 @@ Does this role advance career goals and contain tasks that energize?
 | 0-39 | Dead end or backwards step |
 
 **Career goals:**
-- [YOUR_CAREER_GOAL_1]
-- [YOUR_CAREER_GOAL_2]
-- [YOUR_CAREER_GOAL_3]
+- [To be confirmed — run /setup --section search to update]
+- Growth into senior/staff backend engineering or technical lead roles
+- Building systems with real technical depth: payments, platform engineering, or developer tooling
 
 **Motivation filter:** Evaluate not just whether you *can* do the tasks, but whether the tasks will *energize* you. Consider:
-- Tasks that energize: [YOUR_ENERGIZING_TASKS]
-- Tasks that drain: [YOUR_DRAINING_TASKS]
+- Tasks that energize: system architecture design, solving hard correctness problems (concurrency, distributed state), building developer tools, mentoring and knowledge sharing
+- Tasks that drain: pure maintenance with no design input, highly bureaucratic processes, narrowly scoped execution-only work
 - Non-task factors: leadership style, department culture, company values, degree of autonomy
 
 **Life situation alignment:** Consider personal constraints:
-- **Security**: [YOUR_FINANCIAL_SITUATION_CONTEXT]
-- **Flexibility**: [YOUR_SCHEDULE_CONSTRAINTS]
-- **Professional development**: [YOUR_GROWTH_PRIORITIES]
+- **Security**: [To be confirmed]
+- **Flexibility**: Concurrent student (University of Ibadan, 2023–2028) — consider scheduling implications for on-site roles
+- **Professional development**: Wants roles where architectural ownership and seniority growth are real, not just titles
 
 ### 6. Salary Benchmark (Optional)
 

@@ -106,11 +106,11 @@ Write 5-7 lines that function as an "elevator pitch": a concise, compelling intr
 **Create 2-3 profile statement templates for your main role types:**
 
 <!-- SETUP: These are populated based on your background -->
-**For [YOUR_PRIMARY_ROLE_TYPE] roles:**
-> [YOUR_PROFILE_STATEMENT_TEMPLATE_1]
+**For Backend Engineer / API Platform roles:**
+> Backend engineer with ~3 years building Node.js/NestJS services in production. Led the full rewrite of PostPaddy's Laravel monolith to a NestJS modular monolith, maintaining 100% API compatibility across 6 social platforms as sole backend engineer. Experienced in designing scalable REST APIs, modelling transactional workflows with state machines, and building multi-tenant SaaS systems end-to-end, from database design through deployment and production reliability.
 
-**For [YOUR_SECONDARY_ROLE_TYPE] roles:**
-> [YOUR_PROFILE_STATEMENT_TEMPLATE_2]
+**For Technical Lead / Senior Backend roles:**
+> Backend engineer with team leadership experience across IoT, fintech, and SaaS systems. At Tros, led a 4-member engineering team delivering a zero-incident IoT backend handling 100+ devices and reducing infrastructure costs by 40%. Currently the sole backend engineer at Postpaddy, owning architecture decisions, delivery, and production reliability across three interconnected systems. Regularly mentors developers and shares technical knowledge publicly.
 
 ### Core Competencies / Skills Section (Best Practice)
 Reorder and emphasize based on the role. Use bold category labels.

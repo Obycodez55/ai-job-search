@@ -1,10 +1,7 @@
-# Job Application Assistant for [YOUR_NAME]
-
-<!-- SETUP: This file is populated by running /setup -->
-<!-- After running /setup, all [PLACEHOLDER] tokens will be replaced with your actual information -->
+# Job Application Assistant for Adebayo Obikoya
 
 ## Role
-This repo is a job application workspace. Claude acts as a career advisor and application assistant for [YOUR_NAME], helping with:
+This repo is a job application workspace. Claude acts as a career advisor and application assistant for Adebayo Obikoya, helping with:
 1. **Job fit evaluation** - Assess job postings against your profile (skills, experience, behavioral traits)
 2. **CV tailoring** - Adapt existing CV templates (LaTeX/moderncv) to target specific roles
 3. **Cover letter writing** - Draft targeted cover letters using existing templates (LaTeX)
@@ -13,68 +10,68 @@ This repo is a job application workspace. Claude acts as a career advisor and ap
 
 ## Candidate Profile
 
-<!-- This section is auto-populated by /setup. You can also fill it in manually. -->
-
 ### Identity
-- **Name:** [YOUR_NAME]
-- **Location:** [YOUR_CITY], [YOUR_COUNTRY] ([YOUR_COMMUTE_CONSTRAINTS])
-- **Languages:** [YOUR_LANGUAGES]
-- **Status:** [YOUR_EMPLOYMENT_STATUS]
-- **LinkedIn headline:** "[YOUR_LINKEDIN_HEADLINE]"
+- **Name:** Adebayo Obikoya
+- **Location:** Ibadan, Oyo State, Nigeria
+- **Languages:** English (native)
+- **Status:** Backend Developer at Postpaddy (employed); BSc student, University of Ibadan (2023–2028)
+- **LinkedIn headline:** "Back End Developer @ PostPaddy | System Architecture, Collaborative Leadership"
 
 ### Education
-<!-- List your degrees, most recent first -->
-- **[DEGREE_LEVEL] in [FIELD]** ([YEAR_START]-[YEAR_END]) - [INSTITUTION]
-  - Thesis: "[THESIS_TITLE]"
-  - Topics: [KEY_TOPICS]
+- **BSc in Computer Science** (2023–2028) - University of Ibadan, Ibadan, Nigeria
+  - First Class – 3.72/4.0
+  - Research: developed gesture recognition system with associate professor (Google AI model, Raspberry Pi, Python)
 
 ### Professional Experience
-<!-- List your roles, most recent first -->
-- **[JOB_TITLE]** ([START_DATE] - [END_DATE]) - **[COMPANY]** ([LOCATION])
-  - [KEY_RESPONSIBILITY_1]
-  - [KEY_RESPONSIBILITY_2]
-  - [KEY_ACHIEVEMENT]
+- **Backend Developer** (02/2025–present) - **Postpaddy** (Ibadan, Nigeria)
+  - Led full backend rewrite of PostPaddy's Laravel monolith to NestJS modular monolith, maintaining 100% API compatibility across 6 social platforms as sole backend engineer
+  - Built campaign automation backend (email/SMS campaigns, multi-step workflows, CRM) and Listings platform (storefronts, ad promotions, lead capture, conversion tracking)
+  - Designed multi-tenant architecture, WorkOS auth, BullMQ queue processing
+
+- **Backend Developer** (07/2024–03/2025) - **Ckrowd Africa** (Ibadan, Nigeria)
+  - Migrated backend from BaaS to NestJS/PostgreSQL, eliminating vendor dependency and reducing API latency
+
+- **Backend Engineer** (02/2024–07/2024) - **Tros** (Nigeria)
+  - Led IoT backend for 100+ devices; 200+ QR-based transactions with zero security incidents; 40% infrastructure cost reduction
 
 ### Technical Skills
-- **Primary:** [YOUR_PRIMARY_SKILLS]
-- **Secondary:** [YOUR_SECONDARY_SKILLS]
-- **Domain:** [YOUR_DOMAIN_EXPERTISE]
-- **Software:** [YOUR_TOOLS_AND_SOFTWARE]
+- **Primary:** TypeScript, JavaScript, Node.js, NestJS, REST APIs, PostgreSQL
+- **Secondary:** Python, MySQL, Redis, Docker, GitHub Actions, WebSockets, Jest
+- **Domain:** Payment systems, multi-tenant SaaS architecture, IoT backend, developer tooling
+- **Software:** BullMQ, WorkOS, Git, GitHub Actions, Docker, Jest
 
 ### Certifications
-<!-- List relevant certifications with dates -->
-- **[CERTIFICATION_NAME]** - [HOURS]h - completed [DATE]
+- The Compete 2024 Web Development Bootcamp – Certificate of Completion
+- JavaScript (Intermediate) Certificate
+- Master The Coding Interview: Data Structures + Algorithms – Certificate of Completion
+- JavaScript (Basic) Certificate
+- Node (Basic) Certificate
 
 ### Publications
-<!-- List peer-reviewed publications, if any -->
-- [AUTHOR_LIST] ([YEAR]). [TITLE]. [JOURNAL].
+- Obikoya, A. "Why Validation Matters: Ensuring Data Integrity and Security in Backend Development."
+- Obikoya, A. "10 Tips for Effectively Learning Any Programming Technology."
 
 ### Awards
-<!-- List relevant awards, hackathons, competitions -->
-- [AWARD_NAME] - [EVENT] ([YEAR])
+- None on record yet.
 
 ### Behavioral Profile
-<!-- Your behavioral assessment results (PI, DISC, Myers-Briggs, or self-assessment) -->
-- **[TRAIT_1]** - [DESCRIPTION]
-- **[TRAIT_2]** - [DESCRIPTION]
-- **Strengths:** [YOUR_STRENGTHS]
-- **Growth areas:** [YOUR_GROWTH_AREAS]
-- **Thrives in:** [YOUR_IDEAL_ENVIRONMENT]
+- **Builder orientation** - Spots inefficiencies and turns them into tools; energized by developer experience and hard technical challenges
+- **Teacher/mentor** - Shares LeetCode thought process publicly; tutors and mentors other developers
+- **Strengths:** End-to-end ownership, system design, independent project delivery
+- **Growth areas:** Building seniority; balancing concurrent study with professional work
+- **Thrives in:** Ownership-oriented teams; collaborative environments; roles requiring technical depth and initiative
 
 ### What Excites You
-<!-- What motivates you professionally -->
-- [PASSION_1]
-- [PASSION_2]
+- Building systems that require technical correctness at scale: payment systems, state machines, reconciliation
+- Developer tooling and developer experience: reducing friction for other engineers
 
 ### Target Sectors
-<!-- Industries and companies you're targeting -->
-- [SECTOR_1]: [EXAMPLE_COMPANIES]
-- [SECTOR_2]: [EXAMPLE_COMPANIES]
+- Fintech / Payments: [example companies TBD — run /setup --section search to update]
+- SaaS / Product engineering: [example companies TBD]
+- Developer tools / Platform engineering: [example companies TBD]
 
 ### Deal-breakers
-<!-- Hard constraints on job search -->
-- [DEALBREAKER_1]
-- [DEALBREAKER_2]
+- [To be confirmed — run /setup --section search to update]
 
 ## Repo Structure
 - `cv/` - LaTeX CV variants (moderncv template, banking style)

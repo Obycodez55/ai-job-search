@@ -1,50 +1,54 @@
 # Behavioral Profile
 
-<!-- SETUP: This file is populated by running /setup -->
-<!-- You can use results from PI, DISC, Myers-Briggs, StrengthsFinder, or a self-assessment -->
+*[Inferred from LinkedIn About section and resume content — review before relying on these in applications]*
 
 ## Overview
-[YOUR_NAME]'s behavioral assessment identifies them as a **[PROFILE_TYPE]** pattern. [1-2 SENTENCE_SUMMARY].
+Adebayo is a **builder-teacher** pattern: driven to spot inefficiencies and turn them into tools, and equally motivated to share what he learns through mentoring and public writing. He takes end-to-end ownership of systems, from architecture through production reliability.
 
 ## Core Behavioral Drives
 
 | Drive | Level | Meaning |
 |-------|-------|---------|
-| [DRIVE_1] | [LEVEL] | [DESCRIPTION] |
-| [DRIVE_2] | [LEVEL] | [DESCRIPTION] |
-| [DRIVE_3] | [LEVEL] | [DESCRIPTION] |
-| [DRIVE_4] | [LEVEL] | [DESCRIPTION] |
+| Builder orientation | High | Naturally spots inefficiencies and turns them into tools; side projects are a genuine expression of curiosity, not resume padding |
+| Teaching / knowledge-sharing | High | Runs a public LeetCode streak series; tutored and mentored developers; shares thought process, not just solutions |
+| Collaboration | High | Frames good software explicitly around collaboration, creativity, and impact |
+| End-to-end ownership | High | Comfortable owning features from architecture and DB design through deployment and production reliability |
 
 ## Strongest Behaviors
-- **[BEHAVIOR_1]:** [DESCRIPTION]
-- **[BEHAVIOR_2]:** [DESCRIPTION]
-- **[BEHAVIOR_3]:** [DESCRIPTION]
+*[Inferred from LinkedIn About — review before relying on these]*
+
+- **Problem-solving as craft:** Energized by hard challenges: optimising APIs, designing data pipelines, scaling systems that were not designed to scale
+- **Developer empathy:** Builds tools that "make developers smile"; thinks about the experience of the person using the system
+- **Reflective learner:** Shares not just solutions but thought process publicly; teaching is part of how he grows
 
 ## How You Work Best
-- [ENVIRONMENT_PREFERENCE_1]
-- [ENVIRONMENT_PREFERENCE_2]
-- [ENVIRONMENT_PREFERENCE_3]
+- Working on systems with real complexity: scale, correctness, or novel architecture challenges
+- Owning a domain end-to-end rather than being handed a narrow ticket
+- Environments that value mentoring, documentation, and knowledge sharing
+- Teams where collaboration is a genuine practice, not just a talking point
 
 ## Growth Areas (frame positively in applications)
-- **[AREA_1]:** [HOW_TO_FRAME_IT_POSITIVELY]
-- **[AREA_2]:** [HOW_TO_FRAME_IT_POSITIVELY]
+- **Concurrent student:** Frame as commitment to formal foundations alongside production practice: "combining hands-on production experience with ongoing academic study"
+- **Early career:** Frame around rate of progression and scope of independent ownership achieved in a short time
 
 ## Mapping to Job Posting Language
 
 When a job posting mentions these keywords, it's a **strong behavioral fit**:
-- [KEYWORD_OR_PHRASE_THAT_MATCHES_YOUR_STYLE]
-- [ANOTHER_KEYWORD]
+- "ownership", "end-to-end", "autonomy"
+- "mentoring", "knowledge sharing", "developer experience"
+- "platform engineering", "internal tooling", "developer tools"
+- "scalable systems", "reliability", "production"
 
 When a job posting mentions these, flag as **potential friction** (not deal-breaker):
-- [KEYWORD_OR_PHRASE_THAT_MIGHT_CLASH]
-- [ANOTHER_KEYWORD]
+- Highly structured or process-heavy environments with narrow execution scope
+- Roles with no design input or architectural involvement
 
 ## Management Style Preferences
-- [WHAT_MANAGEMENT_STYLE_WORKS_FOR_YOU]
-- [WHAT_DOESN'T_WORK]
+- Works well with managers who grant ownership and trust output rather than micromanage process
+- Benefits from a technical lead who engages with architecture trade-offs
 
 ## Using This in Applications
-- **Cover letters:** [HOW_TO_WEAVE_IN_BEHAVIORAL_STRENGTHS]
-- **CV:** [WHAT_TO_EMPHASIZE]
-- **Interviews:** [WHAT_STAR_EXAMPLES_TO_USE]
-- **Don't overstate:** [WHAT_NOT_TO_CLAIM]
+- **Cover letters:** Lead with the builder narrative; anchor with a concrete side project or production achievement
+- **CV:** Emphasize end-to-end ownership bullets: sole backend engineer, led rewrite, designed architecture
+- **Interviews:** Use the Postpaddy monolith rewrite and Cliqpay ledger design as anchors for ownership and architecture stories
+- **Don't overstate:** Does not yet have 5+ years of industry seniority; frame scope and impact of what was achieved, not years of experience
